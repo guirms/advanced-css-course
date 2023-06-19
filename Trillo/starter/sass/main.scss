@@ -15,3 +15,11 @@ Grey dark 2: #777
 Grey dark 3: #999
 
 */
+
+.joao {
+    color: red;
+
+    &__maria {
+        color: blue;
+    }
+}
